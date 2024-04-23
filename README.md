@@ -1,3 +1,5 @@
+# Words Count
+
 Check words count for the same documents, given 2 different files with the same information:
 
 - read data from an Excel file named 'docs.xlsx' located at the specified path
